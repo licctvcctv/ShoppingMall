@@ -1,10 +1,3 @@
-# 启动教程
-
-- 项目录屏：https://www.bilibili.com/video/BV1fg4y1D7J7
-- 启动教程：https://www.bilibili.com/video/BV1pW4y1P7GR
-- 安装包在视频详情中已提供。
-
-
 # 项目简介
 基于Vue.js和SpringBoot的购物商城网站，分为管理后台和用户网页端，可以给管理员、用户、商家角色使用，包括商家管理、商品分类管理、商品管理、在线客服管理、购物订单管理和系统基础模块，项目编号T032。
 
